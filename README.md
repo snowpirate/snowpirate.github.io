@@ -1,4 +1,4 @@
-# snowpirate.github.io
+# Malware Command and Control (C2) Lab
 # Objective
 
 Demonstrate Attacker A compromising a Victim(1) with a Meterpreter implant(1) and interacting with Victim using the Metasploit C2 Framework.  Then coordinate with Attacker B, which uses the Sliver C2 Framework, to acquire Attacker B’s Sliver implant(2).  Finally, execute Attacker B’s implant(2), transitioning Victim(1) to Attacker B’s Sliver C2 Framework.
